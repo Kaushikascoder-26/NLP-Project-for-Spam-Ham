@@ -42,32 +42,22 @@ Spam - whether in the form of emails, messages, etc. - is a nuisance. Thanks to 
  
 <hr> 
 Using SVM = Train Accuracy_score = 0.9820877084620135  Test Accuracy_score = 0.921865154379332 
-
-<img src="/images/2.png" width="700" height="400">
  
 <hr>
  
 Using Naive Bayes = Train Accuracy_score = 0.9163063619518221  Test Accuracy_score = 0.8216761184625079 
-
-<img src="/images/3.png" width="700" height="400">
  
 <hr>
  
 Using Logistic Regression = Train Accuracy_score = 0.9879555281037677  Test Accuracy_score = 0.9464398235664776 
-
-<img src="/images/4.jfif" width="700" height="400">
  
 <hr>
  
 Using random Forest = Train Accuracy_score = 0.9984558369363805  Test Accuracy_score = 0.926591052299937 
- 
-<img src="/images/5.png" width="700" height="400">
 <hr>
  
 Using Decision Tree = Train Accuracy_score = 0.9984558369363805  Test Accuracy_score = 0.9117832388153749 
 
-<img src="/images/6.PNG" width="700" height="400">
-
  <hr>
  
- <h3> Project URL : https://email-spam-1.herokuapp.com/ </h3>
+ 
